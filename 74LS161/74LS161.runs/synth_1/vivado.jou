@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Feb 20 15:53:50 2016
+# Process ID: 5812
+# Log file: D:/DESIGN/viva/74LSXX_LIB/74LS161/74LS161.runs/synth_1/counter_74LS161.vds
+# Journal file: D:/DESIGN/viva/74LSXX_LIB/74LS161/74LS161.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source counter_74LS161.tcl
